@@ -37,6 +37,14 @@ Feel free to connect with me!
 
 ---
 
+## <span style="color:grey"> Languages </span>
+
+- English (Native/Fluent)
+- Brazilian Portuguese (Intermediate)
+- Mandarin Chinese (Elementary to Intermediate)
+
+---
+
 ## <span style="color:grey"> Other </span>
 
 I have a tendency to go down Wikipedia rabbit holes. Here are some interesting articles I recommend:
