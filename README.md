@@ -15,11 +15,10 @@ Feel free to connect with me!
 ---
 
 ## <span style="color:grey"> Certifications </span>
+###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Practical Network Penetration Tester (PNPT) <span style="float:right;"> <i>TCM Security</i></span> </p>
+###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Pentest+, CySA+, Security+ <span style="float:right;"> <i>CompTIA</i></span> </p>
 
-### Practical Network Penetration Tester (PNPT) - TCM Security
-2024
-
-### Studying for Offensive Security Certified Professional (OSCP)
+##### <p style="text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Curently Studying for the OSCP) <span style="float:right;">  </span> </p>
 
 ---
 
