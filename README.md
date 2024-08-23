@@ -7,26 +7,37 @@ Feel free to connect with me!
 
 ## <span style="color:grey"> Connect with Me </span>
 
-<!-- <p align="center">test</p> -->
+<div align="center">
 
 | Personal Website | LinkedIn | GitHub | Email |
 | :----------------: | :--------: | :------: | :-----: |
 | [blaketilghman.com](https://blaketilghman.com) | [My LinkedIn](https://linkedin.com/in/btilghman) | [You're Here!](https://github.com/blaketilghman) | [contact@blaketilghman.com](mailto:contact@blaketilghman.com) | 
 
-</p>
-
+</div>
+<!-- 
 - **Personal Website:** [blaketilghman.com](https://blaketilghman.com)
 - **LinkedIn:** [My LinkedIn](https://linkedin.com/in/btilghman)
 - **GitHub:** [You're Here!](https://github.com/blaketilghman)
-- **Email:** [contact@blaketilghman.com](mailto:contact@blaketilghman.com)
+- **Email:** [contact@blaketilghman.com](mailto:contact@blaketilghman.com) 
+-->
 
 ---
 
 ## <span style="color:grey"> Certifications </span>
-###  <p><p style="float: left;">  &bull; [Practical Network Penetration Tester (PNPT)](https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9)</p> <p align="right">(<i>TCM Security</i>) </p></p>
-###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Pentest+, CySA+, Security+, etc.](https://www.credly.com/users/blake-tilghman) &nbsp;&nbsp;&nbsp;&nbsp; (<i>CompTIA</i>) </p>
-
-##### <p style="text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Curently Studying for the OSCP) <span style="float:right;">  </span> </p>
+<table width="100%">
+  <tr>
+    <td align="left"> &bull; <a href="https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9">Practical Network Penetration Tester (PNPT)</a></td>
+    <td align="right"><i>TCM Security</i></td>
+  </tr>
+  <tr>
+    <td align="left"> &bull; <a href="https://www.credly.com/users/blake-tilghman">Pentest+, CySA+, Security+, etc.</a></td>
+    <td align="right"><i>CompTIA</i></td>
+  </tr>
+  <tr>
+    <td align="left"> &bull; (Curently Studying for the OSCP)</td>
+    <td align="right"><i></i></td>
+  </tr>
+</table>
 
 ---
 
