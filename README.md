@@ -42,6 +42,7 @@ Feel free to connect with me!
 - 🇺🇸 English (Native/Fluent)
 - 🇧🇷 Brazilian Portuguese (Intermediate)
 - 🇨🇳 Mandarin Chinese (Elementary to Intermediate)
+- 🤟 American Sign Language/ASL (Beginner)
 
 ---
 
