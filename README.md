@@ -7,6 +7,14 @@ Feel free to connect with me!
 
 ## <span style="color:grey"> Connect with Me </span>
 
+<p align="center">test</p>
+
+| Personal Website | LinkedIn | GitHub | Email |
+| :----------------: | :--------: | :------: | :-----: |
+| [blaketilghman.com](https://blaketilghman.com) | [My LinkedIn](https://linkedin.com/in/btilghman) | [You're Here!](https://github.com/blaketilghman) | [contact@blaketilghman.com](mailto:contact@blaketilghman.com) | 
+
+</p>
+
 - **Personal Website:** [blaketilghman.com](https://blaketilghman.com)
 - **LinkedIn:** [My LinkedIn](https://linkedin.com/in/btilghman)
 - **GitHub:** [You're Here!](https://github.com/blaketilghman)
