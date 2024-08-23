@@ -19,7 +19,7 @@ Feel free to connect with me!
 ### Practical Network Penetration Tester (PNPT) - TCM Security
 2024
 
-### Studying for OSCP
+### Studying for Offensive Security Certified Professional (OSCP)
 
 ---
 
