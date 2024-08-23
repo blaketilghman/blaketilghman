@@ -16,7 +16,7 @@ Feel free to connect with me!
 
 ## <span style="color:grey"> Certifications </span>
 ###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Practical Network Penetration Tester (PNPT)](https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9) &nbsp;&nbsp;&nbsp;&nbsp; (<i>TCM Security</i>) </p>
-###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Pentest+, CySA+, Security+](https://www.credly.com/users/blake-tilghman) &nbsp;&nbsp;&nbsp;&nbsp; (<i>CompTIA</i>) </p>
+###  <p style="text-align:left;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Pentest+, CySA+, Security+, etc.](https://www.credly.com/users/blake-tilghman) &nbsp;&nbsp;&nbsp;&nbsp; (<i>CompTIA</i>) </p>
 
 ##### <p style="text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Curently Studying for the OSCP) <span style="float:right;">  </span> </p>
 
