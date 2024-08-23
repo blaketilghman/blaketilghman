@@ -1,11 +1,11 @@
-Hello, I'm Blake ｜ 你好，我是狄博磊 | Olá, eu sou Blake
+# <span style="color:darkorange"> Hello, I'm Blake ｜ 你好，我是狄博磊 ｜ Olá, eu sou Blake </span>
 
 I'm a passionate security consultant with a focus on webapp and network pentests.
 Feel free to connect with me!
 
 ---
 
-## Connect with Me
+## <span style="color:grey"> Connect with Me </span>
 
 - **Personal Website:** [blaketilghman.com](https://blaketilghman.com)
 - **LinkedIn:** [My LinkedIn](https://linkedin.com/in/btilghman)
@@ -14,7 +14,7 @@ Feel free to connect with me!
 
 ---
 
-## Certifications
+## <span style="color:grey"> Certifications </span>
 
 ### Practical Network Penetration Tester (PNPT) - TCM Security
 2024
@@ -23,7 +23,7 @@ Feel free to connect with me!
 
 ---
 
-## Skills
+## <span style="color:grey"> Skills </span>
 
 - **Tools:** Burp Suite, ffuf, feroxbuster, Impacket, Nmap, Metasploit
 - **Platforms:** Windows, macOS, GNU/Linux (Debian)
@@ -31,14 +31,14 @@ Feel free to connect with me!
 
 ---
 
-## Currently Learning
+## <span style="color:grey"> Currently Learning </span>
 
 - Hardware pentesting
 - Active Directory pentesting
 
 ---
 
-## Other
+## <span style="color:grey"> Other </span>
 
 I have a tendency to go down Wikipedia rabbit holes. Here are some interesting articles I recommend:
 
@@ -48,7 +48,7 @@ I have a tendency to go down Wikipedia rabbit holes. Here are some interesting a
 
 ---
 
-## Get in Touch
+## <span style="color:grey"> Get in Touch </span>
 
 If you have a project you'd like to collaborate on or just want to chat about tech, feel free to reach out!
 
