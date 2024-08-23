@@ -39,9 +39,9 @@ Feel free to connect with me!
 
 ## <span style="color:grey"> Languages </span>
 
-- English (Native/Fluent)
-- Brazilian Portuguese (Intermediate)
-- Mandarin Chinese (Elementary to Intermediate)
+- 🇺🇸 English (Native/Fluent)
+- 🇧🇷 Brazilian Portuguese (Intermediate)
+- 🇨🇳 Mandarin Chinese (Elementary to Intermediate)
 
 ---
 
