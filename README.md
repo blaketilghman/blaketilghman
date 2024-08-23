@@ -28,6 +28,10 @@ Feel free to connect with me!
 <div align="center">
     <table width="100%">
     <tr>
+        <th>Certification Name</th>
+        <th>Vendor</th>
+    </tr>
+    <tr>
         <td align="left"> &bull; <a href="https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9">Practical Network Penetration Tester (PNPT)</a></td>
         <td align="right"><i>TCM Security</i></td>
     </tr>
