@@ -40,16 +40,11 @@ Feel free to connect with me!
 ## <span style="color:grey"> Other </span>
 
 I have a tendency to go down Wikipedia rabbit holes. Here are some interesting articles I recommend:
-
 - [1956 Olympic flame hoax](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/1956_Olympic_flame_hoax)
 - [Number 16 (spider)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Number_16_(spider))
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 
 ---
-
-## <span style="color:grey"> Get in Touch </span>
-
-If you have a project you'd like to collaborate on or just want to chat about tech, feel free to reach out!
 
 ---
 
