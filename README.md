@@ -55,6 +55,4 @@ I have a tendency to go down Wikipedia rabbit holes. Here are some interesting a
 
 ---
 
----
-
 *Thanks for stopping by!*
