@@ -1,4 +1,4 @@
-# <span style="color:darkorange"> Hello, I'm Blake ｜ 你好，我是狄博磊 ｜ Olá, eu sou Blake </span>
+# <span style="color:darkorange" align="center"> Hello, I'm Blake ｜ 你好，我是狄博磊 ｜ Olá, eu sou Blake </span>
 
 I'm a passionate security consultant with a focus on webapp and network pentests.
 Feel free to connect with me!
