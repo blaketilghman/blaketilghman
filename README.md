@@ -24,20 +24,23 @@ Feel free to connect with me!
 ---
 
 ## <span style="color:grey"> Certifications </span>
-<table width="100%">
-  <tr>
-    <td align="left"> &bull; <a href="https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9">Practical Network Penetration Tester (PNPT)</a></td>
-    <td align="right"><i>TCM Security</i></td>
-  </tr>
-  <tr>
-    <td align="left"> &bull; <a href="https://www.credly.com/users/blake-tilghman">Pentest+, CySA+, Security+, etc.</a></td>
-    <td align="right"><i>CompTIA</i></td>
-  </tr>
-  <tr>
-    <td align="left"> &bull; (Curently Studying for the OSCP)</td>
-    <td align="right"><i></i></td>
-  </tr>
-</table>
+
+<div align="center">
+    <table width="100%">
+    <tr>
+        <td align="left"> &bull; <a href="https://www.credential.net/91155ded-c3bd-434e-af8c-d005cea099b9">Practical Network Penetration Tester (PNPT)</a></td>
+        <td align="right"><i>TCM Security</i></td>
+    </tr>
+    <tr>
+        <td align="left"> &bull; <a href="https://www.credly.com/users/blake-tilghman">Pentest+, CySA+, Security+, etc.</a></td>
+        <td align="right"><i>CompTIA</i></td>
+    </tr>
+    <tr>
+        <td align="left"> &bull; (Curently Studying for the OSCP)</td>
+        <td align="right"><i></i></td>
+    </tr>
+    </table>
+</div>
 
 ---
 
