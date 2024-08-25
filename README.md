@@ -40,7 +40,7 @@ Feel free to connect with me!
         <td align="right"><i>CompTIA</i></td>
     </tr>
     <tr>
-        <td align="left"> &bull; (Currently Studying for the OSCP)</td>
+        <td align="left"> &bull; (Currently studying for the OSCP)</td>
         <td align="right"><i></i></td>
     </tr>
     </table>
